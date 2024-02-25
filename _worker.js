@@ -1,7 +1,7 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#TG群福利频道',
-	'cloudflare.cfgo.cc#动态永久分享'
+	'www.visa.com.hk:2096#抖音福利频道',
+	'cloudflare.cfgo.cc#onlyno999_关注'
 ];
 
 // 设置优选地址api接口
