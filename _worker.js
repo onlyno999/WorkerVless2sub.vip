@@ -6,7 +6,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://cf.idouyin.gq' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/ipx2001/WorkerVless2sub/main/addressesapii.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
