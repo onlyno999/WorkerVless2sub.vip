@@ -1,6 +1,6 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#免费福利线路',
+	'www.visa.com.hk:2096#免费官方福利线路',
 	'cloudflare.cfgo.cc#onlyno999_获取vip版'
 ];
 
