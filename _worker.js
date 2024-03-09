@@ -1,12 +1,12 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#免费官方福利线路',
-	'cloudflare.cfgo.cc#onlyno999_获取vip版'
+	'www.visa.com.hk:443#免费官方福利线路',
+	'cloudflare.cfgo.cc:443#onlyno999_获取vip版'
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/gaoderby/cf/main/myok.txt' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
