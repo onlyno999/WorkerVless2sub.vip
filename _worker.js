@@ -1,7 +1,7 @@
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:443#免费官方福利线路',
-	'cloudflare.cfgo.cc:443#onlyno999_获取vip版'
+	'www.visa.com.hk:443#地球福利群',
+	'cloudflare.cfgo.cc:443#onlyno999_获取VIP版'
 ];
 
 // 设置优选地址api接口
